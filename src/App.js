@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Also, CI/CD is cool.</p>
       </header>
     </div>
   );
